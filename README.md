@@ -98,6 +98,9 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 DATASET:
+
+
+
 ![Screenshot 2023-09-25 204338](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/2fd6f408-5a7b-44eb-8f1f-d9e0fe0e5f90)
 
 Plt.profitprediction:
@@ -113,9 +116,11 @@ Profit Prediction:
 ![Screenshot 2023-09-25 205927](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/bcf3cc71-0588-4389-aca4-69ed0a2b132e)
 
 predict1:
+
 ![Screenshot 2023-09-25 204517](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/6031c451-2ad2-41fb-a836-17570e753a8c)
 
 predict2:
+
 ![Screenshot 2023-09-25 204526](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/87465221-332f-4ba0-87f9-db34877a54f0)
 
 
