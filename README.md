@@ -103,6 +103,12 @@ DATASET:
 
 ![Screenshot 2023-09-25 204338](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/2fd6f408-5a7b-44eb-8f1f-d9e0fe0e5f90)
 
+
+
+Compute cost value:
+![Screenshot 2023-10-29 131701](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/7e2a3a49-2a86-446f-b5c1-25e916b66cc4)
+
+
 Plt.profitprediction:
 
 ![Screenshot 2023-09-25 204412](https://github.com/nandhu6523/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/123856724/795267cd-1600-410f-a4aa-e295eac2993a)
